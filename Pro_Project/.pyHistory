@@ -1,0 +1,2 @@
+﻿import arcpy
+arcpy.ImportToolbox("C:\\Users\\simo9685\\Documents\\ArcGIS\\Projects\\Dev2022\\Dev2022.tbx")

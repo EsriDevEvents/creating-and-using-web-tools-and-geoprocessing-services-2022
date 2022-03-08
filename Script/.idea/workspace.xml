@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c44221b5-f388-448f-9346-9f33049f0e5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YimyGe8oAcdYejjBVIZ27dQmB3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/consume_gpservice.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.publish_gpservice">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="hotspotdraft" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\simo9685\AppData\Local\ESRI\conda\envs\arcgispro-py3-clone1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webtools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="concume web tools" type="PythonConfigurationType" factoryName="Python">
+      <module name="hotspotdraft" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consume_webtool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="consume gp service" type="PythonConfigurationType" factoryName="Python">
+      <module name="hotspotdraft" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consume_gpservice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="publish_gpservice" type="PythonConfigurationType" factoryName="Python">
+      <module name="hotspotdraft" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/publish_gpservice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="publish_webtool" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hotspotdraft" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/publish_webtool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.publish_webtool" />
+      <item itemvalue="Python.concume web tools" />
+      <item itemvalue="Python.publish_gpservice" />
+      <item itemvalue="Python.consume gp service" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c44221b5-f388-448f-9346-9f33049f0e5d" name="Default Changelist" comment="" />
+      <created>1583434041411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583434041411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646696980698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-2263" y="-70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646438911983" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646696980698" />
+    <state x="-1504" y="275" key="#xdebugger.evaluate" timestamp="1646439328817">
+      <screen x="-2560" y="-164" width="2048" height="1112" />
+    </state>
+    <state x="-1504" y="275" key="#xdebugger.evaluate/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646439328817" />
+    <state x="-1803" y="40" key="FileChooserDialogImpl" timestamp="1646438911124">
+      <screen x="-2560" y="-164" width="2048" height="1112" />
+    </state>
+    <state x="-1803" y="40" key="FileChooserDialogImpl/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646438911124" />
+    <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646264645633" />
+    <state width="1515" height="252" key="GridCell.Tab.0.bottom" timestamp="1646766863438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1646766624580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766624580" />
+    <state width="2027" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646448961878" />
+    <state width="1515" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766863438" />
+    <state width="1515" height="252" key="GridCell.Tab.0.center" timestamp="1646766863438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1646766624579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.0.center.inPresentationMode/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766624579" />
+    <state width="2027" height="280" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646448961877" />
+    <state width="1515" height="252" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766863438" />
+    <state width="1515" height="252" key="GridCell.Tab.0.left" timestamp="1646766863438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1646766624579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.0.left.inPresentationMode/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766624579" />
+    <state width="2027" height="280" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646448961877" />
+    <state width="1515" height="252" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766863438" />
+    <state width="1515" height="252" key="GridCell.Tab.0.right" timestamp="1646766863438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1646766624580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.0.right.inPresentationMode/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766624580" />
+    <state width="2027" height="280" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646448961878" />
+    <state width="1515" height="252" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766863438" />
+    <state width="1515" height="252" key="GridCell.Tab.1.bottom" timestamp="1646766863438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1646766624580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.1.bottom.inPresentationMode/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766624580" />
+    <state width="2027" height="375" key="GridCell.Tab.1.bottom/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646448961838" />
+    <state width="1515" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766863438" />
+    <state width="1515" height="252" key="GridCell.Tab.1.center" timestamp="1646766863438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1646766624580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.1.center.inPresentationMode/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766624580" />
+    <state width="2027" height="375" key="GridCell.Tab.1.center/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646448961837" />
+    <state width="1515" height="252" key="GridCell.Tab.1.center/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766863438" />
+    <state width="1515" height="252" key="GridCell.Tab.1.left" timestamp="1646766863438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1646766624580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.1.left.inPresentationMode/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766624580" />
+    <state width="2027" height="375" key="GridCell.Tab.1.left/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646448961837" />
+    <state width="1515" height="252" key="GridCell.Tab.1.left/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766863438" />
+    <state width="1515" height="252" key="GridCell.Tab.1.right" timestamp="1646766863438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1646766624580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="167" key="GridCell.Tab.1.right.inPresentationMode/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766624580" />
+    <state width="2027" height="375" key="GridCell.Tab.1.right/0.0.1536.824/-2560.-164.2048.1112@-2560.-164.2048.1112" timestamp="1646448961837" />
+    <state width="1515" height="252" key="GridCell.Tab.1.right/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646766863438" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1646763974431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824/-2560.-164.2048.1112@0.0.1536.824" timestamp="1646763974431" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/publish_gpservice.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/publish_gpservice.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="arcpy.hotspotscripttool" language="Python" />
+        <watch expression="in_module" />
+        <watch expression="inputCalls" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
